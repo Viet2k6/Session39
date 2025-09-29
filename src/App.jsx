@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       {/* <UploadMultiple /> */}
-      <UploadSingle />
+      <UploadMultiple />
     </>
   );
 }
